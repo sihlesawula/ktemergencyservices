@@ -172,7 +172,7 @@ body {
 
 
  @media (max-width: 900px) {
-    untitled {
+    .untitled {
       width: 50px;
       height: 20px;
     }
